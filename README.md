@@ -31,4 +31,4 @@ Facilitar o networking e a divulgação profissional substituindo o cartão de v
 
 1. Clone este repositório
      
-   git clone https://github.com/seu-usuario/nome-do-repo.git
+   git clone (https://pauloglebson01.github.io/Cart-o-Digital-Profissional/)
